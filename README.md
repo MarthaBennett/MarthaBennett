@@ -24,7 +24,7 @@ It was through developing a Moodle platform and the website for our clients (whi
 * 🧠  I'm learning to code, to knit and to make shoes!
 
 * ⚡   I'm an Actor and Scriptwriter (I write with my friend Quentin Beroud), currently in talks to have our first sitcom produced! I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
-* 
+
 
 ### Skills  
 
