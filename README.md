@@ -1,6 +1,11 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martha Bennett (she/her)
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+My name is Martha Bennett (she/her)
+
 
 I am a Junior Developer.
+
+### About
 
 I'm learning to code with School of Code! It's been a whirlwind few months and I've loved meeting other developers and trying something new. 
 
@@ -12,6 +17,7 @@ We provide children around the world with access to experienced tutors, LAMDA (D
 
 It was through developing a Moodle platform and the website for our clients (which needed to work in both China and the rest of the world - no small task!), that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
 
+### Facts
 
 * 🌍  I'm based in London 
 
