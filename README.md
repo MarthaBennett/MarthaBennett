@@ -1,4 +1,6 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martha Bennett ======================================================================================================================================  Web Developer -------------  
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martha Bennett  
+
+Web Developer 
 
 I'm learning to code with School of Code! It's been a whirlwind few months and I've loved meeting other developers and trying something new. 
 
