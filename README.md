@@ -8,7 +8,7 @@ After studying Acting at the Oxford School of Drama, I read Education with Engli
 
 In 2017, I began tutoring and took on a role as a governess for a musician on her world tour. It was the funds from this trip that helped me launch my own education business, Ludo Tutors. 
 
-We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and our new, AI enabled, learning platform. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. The business is almost a passive income, so I am looking for a new challenge and to join a friendly team.
+We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and our new, AI enabled, learning platform. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. As someone who is both Dyslexic and Dyspraxic, it is important to me to build an inclusive andff The business is almost a passive income, so I am looking for a new challenge and to join a friendly team.
 
 It was through developing a Moodle platform and the website for our clients (which needed to work in both China and the rest of the world - no small task!), that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
 
