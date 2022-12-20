@@ -1,10 +1,10 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martha Bennett  
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martha Bennett (she/her)
 
-I am a Junior Developer
+I am a Junior Developer.
 
 I'm learning to code with School of Code! It's been a whirlwind few months and I've loved meeting other developers and trying something new. 
 
-After studying Acting at the Oxford School of Drama, I read Education with English and Drama at Cambridge University (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism in a primary school. 
+After studying Acting at the Oxford School of Drama, I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism in a primary school. 
 
 In 2017, I began tutoring and took on a role as a governess for a musician on her world tour. It was the funds from this trip that helped me launch my own education business, Ludo Tutors. 
 
@@ -19,11 +19,13 @@ It was through developing a Moodle platform and the website for our clients (whi
 
 * 📝  Find my LinkedIn profile here: https://www.linkedin.com/in/martha-bennett-8485241a7/
 
+* 🍎  Find my education business here: https://www.ludotutors.com
+
 * ✉️  You can contact me at [marthamaybennett123@gmail.com](mailto:marthamaybennett123@gmail.com) 
 
 * 🧠  I'm learning to code, to knit and to make shoes!
 
-* ⚡   I'm an Actor and Scriptwriter (I write with my friend Quentin Beroud), currently in talks to have our first sitcom produced! I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
+* ⚡   I'm an Actor and Scriptwriter (I write with my friend Quentin Beroud), currently in talks to have our first sitcom produced. I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
 
 
 ### Skills  
