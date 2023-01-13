@@ -3,7 +3,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 My name is Martha Bennett (she/her)
 
 
-I am a Junior Developer.
+I am a freshly-hatched Developer.
 
 ### About
 
