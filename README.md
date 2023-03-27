@@ -3,17 +3,17 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 My name is Martha Bennett (she/her)
 
 
-I am a freshly-hatched Developer.
+I am a Full Stack Developer.
 
 ### About
 
-I'm learning to code with School of Code! It's been a whirlwind few months and I've loved meeting other developers and trying something new. 
+I've learned to code with School of Code! It was a whirlwind few months and I loved meeting other developers and trying something new. 
 
-After studying Acting at the Oxford School of Drama, I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism in a primary school. 
+I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism in a primary school. 
 
 In 2017, I began tutoring and took on a role as a governess for a musician on her world tour. It was the funds from this trip that helped me launch my own education business, Ludo Tutors. 
 
-We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our AI-enabled platform. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl, children's charities such as Winston's Wish and educational organisations in many countries. As the business is now fairly self-sufficient, I'm looking for a new challenge and to join a friendly team.
+We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our Moodle and AI-enabled platforms. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl, children's charities such as Winston's Wish and educational organisations in many countries. As the business is now fairly self-sufficient, I'm looking for a new challenge and to join a friendly team.
 
 It was through developing a Moodle platform and the website for our clients (which needed to work in both China and the rest of the world - no small task!), that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
 
@@ -31,7 +31,7 @@ It was through developing a Moodle platform and the website for our clients (whi
 
 * 🧠  I'm learning to code, to knit and to make shoes!
 
-* ⚡   I'm an Actor and Scriptwriter (I write with my friend Quentin Beroud), currently in talks to have our first sitcom produced. I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
+* ⚡  I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
 
 
 ### Skills  
@@ -40,9 +40,4 @@ It was through developing a Moodle platform and the website for our clients (whi
  
  ### Socials  <p align="left"> <a href="https://www.github.com/marthabennett" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/martha-bennett-8485241a7/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/marthabennett"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=marthabennett&bg_color=000000&color=ffffff&line=10b981&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
