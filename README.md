@@ -14,7 +14,7 @@ It was through developing a Moodle platform and the website for our clients that
 
 I've been introduced to agile methodology and started on my coding journey (studying JavaScript, Typescript, HTML, CSS, AWS, GitHub, SQL, APIs and more!). You can checkout FoodMap, the app for people with hard-to-naviage dietary requirements we created as a 4 week project, in my respositories.
 
-Since completing the course, I've been working on my portfolio, building KnitWit (a one-stop shop for all your knitting needs!): www.knitwitcrafts.com and have started work on an app totry to help people with suspected Endometriosis get diagnosed quicker. 
+Since completing the course, I've been working on my portfolio, building KnitWit (a one-stop shop for all your knitting needs!): www.knitwitcrafts.com and have started work on an app to try to help people with suspected Endometriosis get diagnosed quicker. 
 
 ### Facts
 
