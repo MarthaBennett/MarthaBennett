@@ -2,26 +2,23 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 My name is Martha Bennett (she/her)
 
-
-I am a Full Stack Developer.
+I'm a Full Stack Developer. School of Code and Cambridge University graduate.
 
 ### About
 
-I've learned to code with School of Code! It was a whirlwind few months and I loved meeting other developers and trying something new. 
+I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism.
 
-I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism in a primary school. 
+In 2017, I launch my own education business, Ludo Tutors. We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our Moodle and AI-enabled platforms. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl, children's charities such as Winston's Wish and educational organisations in many countries. As the business is now fairly self-sufficient, I'm looking for a new challenge and to join a friendly team.
 
-In 2017, I began tutoring and took on a role as a governess for a musician on her world tour. It was the funds from this trip that helped me launch my own education business, Ludo Tutors. 
+It was through developing a Moodle platform and the website for our clients that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
 
-We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our Moodle and AI-enabled platforms. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl, children's charities such as Winston's Wish and educational organisations in many countries. As the business is now fairly self-sufficient, I'm looking for a new challenge and to join a friendly team.
+I've been introduced to agile methodology and started on my coding journey (studying JavaScript, Typescript, HTML, CSS, AWS, GitHub, SQL, APIs and more!). You can checkout FoodMap, the app for people with hard-to-naviage dietary requirements we created as a 4 week project, in my respositories.
 
-It was through developing a Moodle platform and the website for our clients (which needed to work in both China and the rest of the world - no small task!), that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
+Since completing the course, I've been working on my portfolio, building KnitWit (a one-stop shop for all your knitting needs!): www.knitwitcrafts.com and have started work on an app totry to help people with suspected Endometriosis get diagnosed quicker. 
 
 ### Facts
 
 * 🌍  I'm based in London 
-
-* 🖥️  See my portfolio at [https://marthamaybennett.com](http://github.com/MarthaBennett) 
 
 * 📝  Find my LinkedIn profile here: https://www.linkedin.com/in/martha-bennett-8485241a7/
 
@@ -31,7 +28,7 @@ It was through developing a Moodle platform and the website for our clients (whi
 
 * 🧠  I'm learning to code, to knit and to make shoes!
 
-* ⚡  I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap. I'm particularly excited to see how the FemTech and EdTech fields expand.
+* ⚡  I am also an Expert Patient for the NHS, teaching Nurses and Doctors about Endometriosis and the Gender Pain Gap in my spare time. I'm particularly excited to see how the FemTech and EdTech fields expand.
 
 
 ### Skills  
