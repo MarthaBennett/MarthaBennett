@@ -2,7 +2,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 My name is Martha Bennett (she/her)
 
-I'm a freshly hatched Software Developer.
+I'm a freshly-hatched Software Developer.
 
 ### About
 
