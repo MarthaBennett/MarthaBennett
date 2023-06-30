@@ -6,15 +6,17 @@ I'm a freshly-hatched Software Developer.
 
 ### About
 
-I read Education with English and Drama at the University of Cambridge (BA, MA Cantab) and worked as a Teaching Assistant for children with Autism.
+I read Education with English and Drama at the University of Cambridge (BA, MA Cantab), studied Acting at The Oxford School of Drama and worked as a Teaching Assistant for children with Autism.
 
-In 2017, I launch my own education business, Ludo Tutors. We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our Moodle and AI-enabled platforms. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl, children's charities such as Winston's Wish and educational organisations in many countries. As the business is now fairly self-sufficient, I'm looking for a new challenge and to join a friendly team.
+In 2017, I launch my own education business, Ludo Tutors. We provide children around the world with access to experienced tutors, LAMDA (Drama and Public Speaking) Exams and tuition via our Moodle and AI-enabled platforms. This business has been running for nearly 6 years and we have over 150 wonderful tutors on our books. We have partnered with education providers such as Twinkl and LAMDA Exams; children's charities, such as Winston's Wish, and educational organisations in many countries.
 
 It was through developing a Moodle platform and the website for our clients that I met and enjoyed working with a lot of developers. I got curious about their jobs and so started to look into coding courses. A friend recommended I apply for the School of Code and the rest is history!  
 
 I've been introduced to agile methodology and started on my coding journey (studying JavaScript, Typescript, HTML, CSS, AWS, GitHub, SQL, APIs and more!). You can checkout FoodMap, the app for people with hard-to-naviage dietary requirements we created as a 4 week project, in my respositories.
 
 Since completing the course, I've been working on my portfolio, building KnitWit (a one-stop shop for all your knitting needs!): www.knitwitcrafts.com and have started work on an app to try to help people with suspected Endometriosis get diagnosed quicker. 
+
+I am now a Consultant Developer at Hippo Digital: I'm having a great time learning Java and working with my lovely colleagues!
 
 ### Facts
 
